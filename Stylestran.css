@@ -1,0 +1,41 @@
+#vrh{
+    font-size:50px;
+    background-color: cyan;
+    height: 70px;
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 5px;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    padding-top: 25px;
+}
+
+.navigation {
+    position:fixed;
+    background-color: lightblue;
+    height: 100%;
+    width: 200px;
+     padding-top: 10px;
+}
+.glavno {
+    margin-left: auto;
+    position: right;
+    max-width:  87%;
+    background-color: beige;
+    height:auto
+}
+
+.spodaj{
+    height: 30px;
+    width: 100%;
+    background-color: skyblue;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+img {
+    float: right;
+    margin: 20px;
+}
